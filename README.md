@@ -1,11 +1,16 @@
-Welcome to my professional Virtual Assistant portfolio. Below are samples of my work in:
+# 👩🏽‍💻 Eunice Okunlola – Virtual Assistant Portfolio
 
-✅ Administrative Support  
-✅ Content Planning & Scheduling  
-✅ Excel Reporting & Budgeting  
-✅ Canva Design  
-✅ Trello & Project Management  
-✅ Email & Calendar Management
+Welcome! I’m Eunice, a proactive and reliable Virtual Assistant with experience in:
+
+✅ Administrative support  
+✅ Social media management,content planning & captions  
+✅ Canva designs  
+✅ Excel-based reporting
+✅ Google workspace
+✅ Trello & task management  
+✅ Email & calendar organization
+
+This portfolio showcases my work samples,  the tools and formats I used to support busy individuals and organizations.
 
 ## 📊 Excel Templates
 - [Monthly Budget Tracker](excel/monthly-budget.xlsx)
@@ -34,3 +39,10 @@ Owanbe Party
 ## 📋 Admin Templates
 - Client Onboarding Checklist
 - Weekly Report Template
+
+## 📬 Contact Me
+
+- 📧 Email: temitopeokunlola1@gmail.com 
+- 🌐 LinkedIn: [https://www.linkedin.com/in/euniceokunlola/]  
+- 📍 Available for remote jobs worldwide
+
