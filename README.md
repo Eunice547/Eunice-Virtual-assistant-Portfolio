@@ -14,7 +14,7 @@ This portfolio showcases my work samples, as well as  the tools and formats I us
 
 Internet Research
 
--[12 (3-star) Hotels at Wuse II, Abuja](https://docs.google.com/spreadsheets/d/1CrbkyBCCt7uo5_zNkd0DSXQHJHPTY3T_P4dgEjthKw8/edit?gid=598885478#gid=598885478)
+[12 (3-star) Hotels at Wuse II, Abuja](https://docs.google.com/spreadsheets/d/1CrbkyBCCt7uo5_zNkd0DSXQHJHPTY3T_P4dgEjthKw8/edit?gid=598885478#gid=598885478)
   
 
 🖼️ Canva Designs
@@ -26,15 +26,17 @@ Trello Board (PDF Export)
 
 📱 Social Media Posts
 
-A write-up on Care giver Job
+A write-up on Caregiver Job
 View the original post on Facebook (https://web.facebook.com/photo?fbid=10162665640289087&set=a.10150515120144087)
+**Type:** Facebook write-up post  
+**Goal:** sharing personal opinion on matters.
 
-[A writeup on owanbe Party in Nigeria](https://github.com/Eunice547/Eunice-Virtual-assistant-Portfolio/blob/main/A%20woman%20not%20served%20food%20at%20an%20owanbe%20party.png)
+[A writeup on Owanbe Party in Nigeria](https://github.com/Eunice547/Eunice-Virtual-assistant-Portfolio/blob/main/A%20woman%20not%20served%20food%20at%20an%20owanbe%20party.png)
 Caption
 Owanbe Party
-[View the original post on Intagram](https://www.instagram.com/p/DI1g7DLoebk/)
-Tools used: Canva (design), Facebook (posting)  
-**Type:** Facebook write-up post  
+[View the original post on Instagram](https://www.instagram.com/p/DI1g7DLoebk/)
+Tools used: Canva (design), Instagram (posting)  
+**Type:** Instagram write-up post  
 **Goal:** sharing personal opinion on matters.
 
  📬 Contact Me
