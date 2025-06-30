@@ -13,7 +13,7 @@ Welcome! I’m Eunice, a proactive and reliable Virtual Assistant with experienc
 This portfolio showcases my work samples, as well as  the tools and formats I used to support busy individuals and organizations.
 
 Internet Research
-[12 (3-star) Hotels at Wuse II, Abuja](https://docs.google.com/spreadsheets/d/1CrbkyBCCt7uo5_zNkd0DSXQHJHPTY3T_P4dgEjthKw8/edit?gid=598885478#gid=598885478)
+-[12 (3-star) Hotels at Wuse II, Abuja](https://docs.google.com/spreadsheets/d/1CrbkyBCCt7uo5_zNkd0DSXQHJHPTY3T_P4dgEjthKw8/edit?gid=598885478#gid=598885478)
   
 
 🖼️ Canva Designs
