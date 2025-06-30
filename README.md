@@ -32,7 +32,7 @@ View the original post on Facebook (https://web.facebook.com/photo?fbid=10162665
 [A writeup on owanbe Party in Nigeria](https://github.com/Eunice547/Eunice-Virtual-assistant-Portfolio/blob/main/A%20woman%20not%20served%20food%20at%20an%20owanbe%20party.png)
 Caption
 Owanbe Party
-[View the original post on Facebook](https://web.facebook.com/photo?fbid=10162775575534087&set=a.10150515120144087)
+[View the original post on Intagram](https://www.instagram.com/p/DI1g7DLoebk/)
 Tools used: Canva (design), Facebook (posting)  
 **Type:** Facebook write-up post  
 **Goal:** sharing personal opinion on matters.
