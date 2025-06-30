@@ -3,18 +3,18 @@
 Welcome! I’m Eunice, a proactive and reliable Virtual Assistant with experience in:
 
 ✅ Administrative support  
-✅ Social media management,content planning & captions  
+✅ Social media management, content planning & captions  
 ✅ Canva designs  
 ✅ Excel-based reporting
-✅ Google workspace
+✅ Google Workspace
 ✅ Trello & task management  
 ✅ Email & calendar organization
 
-This portfolio showcases my work samples,  the tools and formats I used to support busy individuals and organizations.
+This portfolio showcases my work samples, as well as  the tools and formats I used to support busy individuals and organizations.
 
-📊 Excel Templates
-- [Monthly Budget Tracker](excel/monthly-budget.xlsx)
-- [Content Calendar (Q3)](excel/content-calendar.xlsx)
+Internet Research
+[12 (3-star) Hotels at Wuse II, Abuja](https://docs.google.com/spreadsheets/d/1CrbkyBCCt7uo5_zNkd0DSXQHJHPTY3T_P4dgEjthKw8/edit?gid=598885478#gid=598885478)
+  
 
 🖼️ Canva Designs
 - Social media quote post (PNG)
