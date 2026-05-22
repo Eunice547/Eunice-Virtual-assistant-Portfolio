@@ -43,7 +43,7 @@ Tools used: Canva (design), Instagram (posting)
 Caption
 Sister to Sister, stop making Rape a Joke.
 [View the original post on Tiktok](https://www.tiktok.com/@temit25/photo/7608938482727144724?is_from_webapp=1&sender_device=pc&web_id=7522049934523418117)
-Tools used: Canva (design), Instagram (posting)  
+Tools used: Canva (design), Tiktok(posting)  
 **Type:** Tiktok post  
 **Goal:** sharing personal opinion on matters.
 
